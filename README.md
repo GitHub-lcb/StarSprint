@@ -2,7 +2,7 @@
 
 StarSprint 是一款极简、现代的 GitHub 仓库增长分析工具。它可以帮助开发者和开源爱好者快速锁定在特定时间段内 Stars 增长最快的项目，洞察技术社区的最新趋势。
 
-![StarSprint UI Preview](https://via.placeholder.com/1200x600/020617/06b6d4?text=StarSprint+Modern+UI+Dashboard)
+![StarSprint UI Preview](https://github-lcb.github.io/StarSprint/)
 
 ## ✨ 核心特性
 
