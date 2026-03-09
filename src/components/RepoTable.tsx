@@ -1,5 +1,5 @@
 import React from 'react';
-import { Table, Avatar, Typography, Space, Tooltip } from 'antd';
+import { Table, Avatar, Typography } from 'antd';
 import { StarFilled, RiseOutlined, CalendarOutlined } from '@ant-design/icons';
 import { useTranslation } from 'react-i18next';
 import type { GrowthRepo } from '../types';
@@ -39,7 +39,7 @@ const RepoTable: React.FC<RepoTableProps> = ({ data, loading }) => {
       title: t('table.repository'),
       dataIndex: 'name',
       key: 'name',
-      render: (text: string, record: GrowthRepo) => (
+      render: (_: string, record: GrowthRepo) => (
         <div className="flex items-center gap-4 py-2 group/repo">
           <div className="relative">
             <Avatar 
