@@ -1,0 +1,6 @@
+- [x] `SearchParams` 接口已更新为包含 `startDate` 和 `endDate`。
+- [x] `fetchFastGrowingRepos` 服务正确将日期范围转换为 GitHub 查询 `created:YYYY-MM-DD..YYYY-MM-DD`。
+- [x] `SearchForm` UI 使用 `RangePicker` 进行日期选择。
+- [x] 选择日期范围后，提交表单能成功触发 API 请求并更新结果。
+- [x] 结果表格展示的时间跨度信息与选择的范围一致。
+- [x] 应用首次加载时，默认使用过去 7 天的日期范围。

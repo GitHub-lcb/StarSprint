@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "StarSprint",
+    "subtitle": "分析引擎",
+    "radar_title": "实时仓库雷达",
+    "hero_title": "发现下一个",
+    "hero_breakthrough": "突破性项目",
+    "hero_desc": "通过追踪任意日期范围内的 Stars 快速增长，分析新兴的 GitHub 趋势。锁定当前最具动能的项目。",
+    "configure": "配置",
+    "api_config": "API 配置",
+    "growth_leaders": "增长领跑者",
+    "ranked_by_momentum": "按每日增长动能排序",
+    "tracking_period": "追踪周期",
+    "documentation": "文档",
+    "api_status": "API 状态",
+    "privacy": "隐私",
+    "engine_copyright": "StarSprint 引擎 © 2026",
+    "no_repos_found": "未找到符合条件的仓库",
+    "search_failed": "查询失败，请稍后重试",
+    "token_saved": "GitHub Token 已保存",
+    "set_token_title": "设置 GitHub Token",
+    "set_token_desc": "为了避免 GitHub API 的频率限制 (Rate Limit)，建议提供一个 <1>Personal Access Token</1>。Token 仅保存在您的浏览器本地存储中，不会上传。",
+    "token_placeholder": "ghp_xxxxxxxxxxxx",
+    "cancel": "取消",
+    "save": "保存"
+  },
+  "search": {
+    "period_label": "探测周期",
+    "recent_7d": "最近 7 天",
+    "recent_14d": "最近 14 天",
+    "recent_30d": "最近 30 天",
+    "recent_90d": "最近 90 天",
+    "start": "开始日期",
+    "end": "结束日期",
+    "min_stars": "Stars 门槛",
+    "depth": "结果深度",
+    "init_scan": "初始化雷达",
+    "required": "必填"
+  },
+  "table": {
+    "rank": "排名",
+    "repository": "仓库",
+    "stars": "Stars 总数",
+    "momentum": "增长动能",
+    "launched": "创建于",
+    "no_description": "暂无描述。",
+    "total_stars": "总 Stars",
+    "per_day": "/ 天",
+    "days_ago": "{{count}} 天前"
+  }
+}

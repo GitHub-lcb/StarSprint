@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "StarSprint",
+    "subtitle": "Analytics Engine",
+    "radar_title": "Live Repository Radar",
+    "hero_title": "Discover the next",
+    "hero_breakthrough": "breakthrough",
+    "hero_desc": "Analyze emerging GitHub trends by tracking rapid star growth across any date range. Lock in on the projects gaining momentum right now.",
+    "configure": "Configure",
+    "api_config": "API Config",
+    "growth_leaders": "Growth Leaders",
+    "ranked_by_momentum": "Ranked by Daily Momentum",
+    "tracking_period": "Tracking Period",
+    "documentation": "Documentation",
+    "api_status": "API Status",
+    "privacy": "Privacy",
+    "engine_copyright": "StarSprint Engine © 2026",
+    "no_repos_found": "No matching repositories found",
+    "search_failed": "Search failed, please try again later",
+    "token_saved": "GitHub Token saved",
+    "set_token_title": "Set GitHub Token",
+    "set_token_desc": "To avoid GitHub API rate limits, it is recommended to provide a <1>Personal Access Token</1>. The token is only saved in your browser's local storage and will not be uploaded.",
+    "token_placeholder": "ghp_xxxxxxxxxxxx",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "search": {
+    "period_label": "Detection Period",
+    "recent_7d": "Last 7 Days",
+    "recent_14d": "Last 14 Days",
+    "recent_30d": "Last 30 Days",
+    "recent_90d": "Last 90 Days",
+    "start": "Start Date",
+    "end": "End Date",
+    "min_stars": "Min Stars",
+    "depth": "Depth",
+    "init_scan": "Initialize Scan",
+    "required": "Required"
+  },
+  "table": {
+    "rank": "RANK",
+    "repository": "REPOSITORY",
+    "stars": "STARS",
+    "momentum": "MOMENTUM",
+    "launched": "LAUNCHED",
+    "no_description": "No description provided.",
+    "total_stars": "Total Stars",
+    "per_day": "/ day",
+    "days_ago": "{{count}} days ago"
+  }
+}
