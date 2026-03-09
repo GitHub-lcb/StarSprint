@@ -128,8 +128,8 @@ const App: React.FC = () => {
           },
           Table: {
             colorBgContainer: 'transparent',
-            colorHeaderBg: 'rgba(15, 23, 42, 0.4)',
-            colorHeaderColor: '#94a3b8',
+            headerBg: 'rgba(15, 23, 42, 0.4)',
+            headerColor: '#94a3b8',
             fontSize: 14,
           }
         }
